@@ -1,0 +1,12 @@
+ejecutar el codigo en python en algun terminar como visual study code etc y ejecutar
+
+con la letra 'O' prendes el modo oscuro, con 'C' el modo claro
+
+con B = BORRAS NUMERO POR NUMERO
+con Q = BORRAR TODO
+
+los parametros pueden ser modificables
+hecho para fines educativos y recreativos
+
+creditos:
+Willy Nuñez
